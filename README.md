@@ -1,4 +1,4 @@
-# firebase-vuln-detect
+# firebase-vuln-detect  - JUST for quick checking of firebase vulns.
 Script to check if Firebase Remote Config is enabled, and if enabled grab the contents required to make the POST request and o/p the data obtained
 
 ``USAGE : python3 firebasecheck.py /apk/path/folder ``
