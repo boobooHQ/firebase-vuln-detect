@@ -3,7 +3,9 @@ Script to check if Firebase Remote Config is enabled, and if enabled grab the co
 
 ``USAGE : python3 firebasecheck.py /apk/path/folder ``
 
-> this also sends notification using notify command.
-> setup notify before use 
++ Also checks if .json appended to firebase url exposes any data & notifies about it
 
-``no need of apktools or debugger. it uses strings to fetch relevant data from the apk and then creates a request and send the request to show the o/p in the terminal``
+
+**no need of apktools or debugger. script uses strings command to fetch relevant data from the apk and then creates a GET & POST request then sends the request to show the o/p in the terminal**
+((project discovery notify integrated)
+
