@@ -9,3 +9,4 @@ Script to check if Firebase Remote Config is enabled, and if enabled grab the co
 **no need of apktools or debugger. script uses strings command to fetch relevant data from the apk and then creates a GET & POST request then sends the request to show the o/p in the terminal**
 ((project discovery notify integrated)
 
+![gallowaybabu](https://github.com/user-attachments/assets/c3c30026-6bd0-4632-9956-009ce90947e5)
